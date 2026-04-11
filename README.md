@@ -25,13 +25,14 @@ The empirical strategy is structured into four main components:
 ## Methods and Data
 
 ### Methods:
+The research applies advanced econometric approaches:
 - Driscoll–Kraay Standard Rrrors (DKSE) (Hainmueller & Hazlett, 2014).
 - Kernel Regularized Least Squares (KRLS) (Driscoll & Kraay, 1998).
 - Granger Non-causality Test (Xiao et al., 2023).
 - Method of Moments Quantile Regression (MMQR) (Machado & Santos Silva, 2019).
 
 ### Data:
-Clean data are provided in folder `clean_data':
-- File `main_data.dta' is used for Parts 1 and 2.
-- File `granger-test_data.dta' is used for Part 3.
-- File `robustness-check_data.dta' is used for Part 4.
+Clean data are provided in folder `clean_data`:
+- File `main_data.dta` is used for Parts 1 and 2.
+- File `granger-test_data.dta` is used for Part 3.
+- File `robustness-check_data.dta` is used for Part 4.
