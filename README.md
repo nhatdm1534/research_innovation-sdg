@@ -28,7 +28,7 @@ The empirical strategy is structured into four main components:
 The research applies advanced econometric approaches:
 - Driscoll–Kraay Standard Rrrors (DKSE) (Hainmueller & Hazlett, 2014).
 - Kernel Regularized Least Squares (KRLS) (Driscoll & Kraay, 1998).
-- Granger Non-causality Test (Xiao et al., 2023).
+- Granger Non-causality Test (Joudis et al., 2021).
 - Method of Moments Quantile Regression (MMQR) (Machado & Santos Silva, 2019).
 
 ### Data:
