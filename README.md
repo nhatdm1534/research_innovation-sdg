@@ -12,7 +12,7 @@ The empirical strategy is structured into four main components:
 - Investigate the interaction effect of INQ.
 
 ### Part 2: Heterogeneity analysis
-- Investigate the impact of GII on the 17 SDGs (G1-G17).
+- Investigate the impact of GII on the 17 SDGs (Goal 1 - Goal 17).
 - Analyze the effects of the seven components of the GII on the SDGs.
 - Examine how the key relationship varies across income levels and country blocs.
 
@@ -36,3 +36,24 @@ Clean data are provided in folder `clean_data`:
 - File `main_data.dta` is used for Parts 1 and 2.
 - File `granger-test_data.dta` is used for Part 3.
 - File `robustness-check_data.dta` is used for Part 4.
+- Sources: World Intellectual Property Organization (Global Innovation Index), Sustainable Development Report, World Bank.
+
+## Environment
+
+- Stata 17.
+- R 4.5.3.
+
+## Contributors
+
+- Dang Minh Nhat.
+- Le Hong Ngoc.
+- Ho Phuong Uyen.
+- Tran Nguyen Hoang Nguyen.
+- Tran Thi Ai Van.
+- Nguyen Phuc Hung.
+- Trinh Minh Quy.
+
+## Contact
+
+For questions or replication issues, please contact:  
+- nhatdang0164@gmail.com.
