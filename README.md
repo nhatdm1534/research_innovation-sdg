@@ -46,7 +46,9 @@ Clean data are provided in folder `clean_data`:
 ## Contributors
 
 [1] Dang Minh Nhat - Sole author of the research design and codebase. Responsible for data collection, data cleaning, data aggregation, and full implementation of all models in both Stata and R.
+
 [2] Le Hong Ngoc, Ho Phuong Uyen, Tran Nguyen Hoang Nguyen, and Tran Thi Ai Van - Assisted in executing regression analyses by running the provided code.
+
 [3] Nguyen Phuc Hung, Trinh Minh Quy - Provided academic guidance and research supervision.
 
 ## Contact
